@@ -20,11 +20,12 @@ El **Juego de Adivinar el Número** es una aplicación web interactiva, parte de
 
 ## Cómo Jugar
 
-1. Ingresa un número entre 1 y 10 en el campo de entrada.
-2. Haz clic en el botón "Intentar" para verificar tu suposición.
-3. Si el número es correcto, recibirás un mensaje indicando el número de intentos utilizados.
-4. Si el número no es correcto, se te informará si el número secreto es mayor o menor.
-5. Cuando se agoten los intentos, el juego te permitirá reiniciar en el botón "Nuevo juego".
+1. Se pedira al usuario por una ventana alert que ingrese el número de intentos con cual desea jugar.
+2. El usuario ingresa un número entre 1 y 10 en el campo de entrada.
+3. Haz clic en el botón "Intentar" para verificar tu suposición.
+4. Si el número es correcto, recibirás un mensaje indicando el número de intentos utilizados.
+5. Si el número no es correcto, se te informará si el número secreto es mayor o menor.
+6. Cuando se agoten los intentos, el juego te permitirá reiniciar en el botón "Nuevo juego".
 
 ## Capturas de Pantalla
 
