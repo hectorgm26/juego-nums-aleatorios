@@ -28,7 +28,7 @@ El **Juego de Adivinar el Número** es una aplicación web interactiva, parte de
 
 ## Capturas de Pantalla
 
-![Captura de pantalla del juego](https://i.ibb.co/1T3Dh08/tu-imagen.png)
+<img src="https://i.ibb.co/1T3Dh08/tu-imagen.png" alt="Captura de pantalla del juego" width="800" />
 
 
 ## Contribuciones
